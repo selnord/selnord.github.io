@@ -1,0 +1,69 @@
+{
+  "website":{
+    "title": "Selnord Consultants"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "services": "Services",
+    "producers": "Producers",
+    "product": "Products",
+    "blog": "Blog",
+    "link": "Contacts"
+  },
+  "about_me":{
+    "about_me": "About Company",
+    "des": "Selnord Consultants is a leading plastics marketing and distribution company with an extensive product line. We’ve earned a reputation for being a trustworthy, responsive, and reliable business partner for those who expect competitively priced products and exceptional services from their supplier."
+  },
+  "services":{
+    "my_services": "Our Services",
+	"des": "Looking for a specific product? Need it in a hurry? We’ll work with you to solve any challenges that you have. At Selnord, your business comes first. Contact our team online or call us at +7 495 935 7622"
+  },
+  "producers":{
+    "my_producers": "Our Producers",
+    "formosa": "Supension polyvinyl chloride (PVC) from USA",
+    "axiall": "Supension polyvinyl chloride (PVC) from USA",
+    "cynpol": "wide range of polymers from USA",
+    "daelim": "metallocene linear low density polyethylene (mLLDPE) from South Korea",
+    "chevron": "MARLEX® polyethylene and polypropylene products"
+
+  },
+  "product":{
+    "my_product": "Our Products",
+
+    "pvc": "Polyvinyl chloride",
+    "pvc_desc": "We offer various polyvinyl chloride products that include supension polyvinyl chloride (S-PVC), emulsion polyvinyl chloride (E-PVC) resins for use in a wide-range of applications that are designed to meet your needs and demanding performance requirements",
+    "pvc_date": "PVC, SPVC, EPVC",
+    "pvc_job": "",
+
+    "pet": "Polyethylene terephthalate",
+    "pet_desc": "We offer polyethylene terephthalate for use in a wide-range of applications that are designed to meet your needs and demanding performance requirements.",
+    "pet_date": "PET",
+    "pet_job": "",
+
+
+    "pe": "Polyethylene ",
+    "pe_desc": "We offer an extensive selection of polyethylene products that include linear low density (LLDPE), low density (LDPE), high density (HDPE), metallocene (mLLDPE), and ethylene vinyl acetate (EVA) resins for use in a wide-range of applications that are designed to meet your needs and demanding performance requirements. Whether you’re looking for toughness, tear or puncture resistance, transparency, or processing ease, we have the products you need and can help you identify the perfect grade and the best solution for your application.",
+    "pe_date": "HDPE, LDPE, LLDPE, mLLDPE, EVA",
+    "pe_job": "",
+    "pp": "Polypropylene",
+    "pp_desc": "We offer an extensive selection of polypropylene products that include homopolymer (HPP), impact copolymer (ICP), and random copolymer (RCP) resins for use in a wide-range of applications that are designed to meet your needs and demanding performance requirements. ",
+    "pp_date": "HPP, RCP, ICP",
+    "pp_date_job": "",
+	"ps": "Polystyrene",
+    "ps_desc": "We offer an extensive selection of polystyrene products that include general purpose (GPPS), ignition-resistant (IRPS), and high-impact (HIPS) resins for use in a wide-range of applications that are designed to meet your needs and demanding performance requirements.",
+    "ps_date": "GPPS, EPS,, IPS,  HIPS",
+    "ps_job": ""
+
+
+
+
+  },
+  "blog":{
+    "my_blog": "Our Blog"
+  },
+  "link":{
+    "link": "Contacts",
+    "view": "views"
+  }
+}
