@@ -1,0 +1,71 @@
+# products section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail:
+    i18n: pvc
+  desc:
+    detail:
+    i18n: pvc_desc
+  date:
+    detail:
+    i18n: pvc_date
+  job:
+    detail:
+    i18n: pvc_job
+  icon: fa-plus-square
+
+- name:
+    detail:
+    i18n: pet
+  desc:
+    detail:
+    i18n: pet_desc
+  date:
+    detail:
+    i18n: pet_date
+  job:
+    detail:
+    i18n: pet_job
+  icon: fa-plus-square
+
+- name:
+    detail: PE
+    i18n: pe
+  desc:
+    detail:
+    i18n: pe_desc
+  date:
+    detail:
+    i18n: pe_date
+  job:
+    detail:
+    i18n: pe_job
+  icon: fa-plus-square
+
+- name:
+    detail:
+    i18n: pp
+  desc:
+    detail:
+    i18n: pp_desc
+  date:
+    detail:
+    i18n: pp_date
+  job:
+    detail:
+    i18n: pp_job
+  icon: fa-plus-square
+
+- name:
+    detail:
+    i18n: ps
+  desc:
+    detail:
+    i18n: ps_desc
+  date:
+    detail:
+    i18n: ps_date
+  job:
+    detail:
+    i18n: ps_job
+  icon: fa-plus-square

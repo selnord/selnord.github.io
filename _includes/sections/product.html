@@ -1,0 +1,28 @@
+<div class="container" id="i18_product">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <div class="navy-line"></div>
+            <h1><span data-i18n="product.my_product">My product</span></h1>
+        </div>
+    </div>
+    <div class="row features-block">
+        <div class="col-lg-12">
+            <div id="vertical-timeline" class="vertical-container light-timeline center-orientation">
+            {% for product in site.data.index.products %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
+                <div class="vertical-timeline-block">
+                    <div class="vertical-timeline-icon navy-bg wow rotateIn">
+                        <i class="fa {{ product.icon }}"></i>
+                    </div>
+                    <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
+                        <h2><span data-i18n="product.{{ product.name.i18n }}">{{ product.name.detail }}</span></h2>
+                        <p><span data-i18n="product.{{ product.desc.i18n }}">{{ product.desc.detail }} </span></p>
+                        <span class="vertical-date"><span data-i18n="product.{{ product.date.i18n }}"> {{ product.date.detail }} </span>
+                        <br/> <small><span data-i18n="product.{{ product.job.i18n }}">{{ product.job.detail }}</span></small> </span>
+                    </div>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>

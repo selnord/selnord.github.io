@@ -1,0 +1,49 @@
+<div class="container" id="i18_services">
+    <div class="row">
+        <div class="col-lg-12 text-center" id="i18_services">
+            <div class="navy-line"></div>
+            <h1><span data-i18n="services.my_services">My services</span></h1>
+        </div>
+    </div>
+	    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg wow zoomIn">
+            <p><span data-i18n="services.des">{{ site.author.desc }}</span></p>
+        </div>
+    </div>
+
+    <div class="row features-block">
+        <div class="wow zoomIn col-lg-6 col-lg-offset-3">
+            <canvas id="{{ site.data.index.services.id }}" height="500" width="500"></canvas>
+        </div>
+        <div class="col-lg-1"></div>
+        <script>
+        var ctx = document.getElementById("{{ site.data.index.services.id }}");
+        var data = {
+            labels: "{{ site.data.index.services.aspects }}".split(","),
+            datasets: [{
+                label: "{{ site.data.index.services.label }}",
+                backgroundColor: "rgba(179,181,198,0.2)",
+                borderColor: "#30a05b",
+                pointBackgroundColor: "#30a05b",
+                pointBorderColor: "#fff",
+                pointHoverBackgroundColor: "#30a05b",
+                pointHoverBorderColor: "#30a05b",
+                data: [{{ site.data.index.services.percentage }}]
+                }]
+        };
+        var myRadarChart = new Chart(ctx, {
+            type: 'radar',
+            data: data,
+            options: {
+                scale: {
+                    responsive: true,
+                    ticks: {min: 0, max: 100},
+                    lineArc: false,
+                    pointLabels: {fontSize: 14},
+                },
+                legend: {display: false},
+            }
+        });
+        </script>
+    </div>
+</div>

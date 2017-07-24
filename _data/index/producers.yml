@@ -1,0 +1,27 @@
+# producers section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest producers' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Formosa Plastics, USA
+  i18n: formosa
+  img: /static/assets/img/landing/FORMOSAPLAST.png
+  desc: PVC from USA
+
+- name: Axial LLC, USA
+  i18n: axiall
+  img: /static/assets/img/landing/AXIALL.png
+  desc: PVC from USA
+
+- name: Chevron Philips
+  i18n: chevron
+  img: /static/assets/img/landing/CP-Chem.png
+  desc: Marlex HDPE, PP and other polymers CP Chem
+
+- name: Daelim, South Korea
+  i18n: daelim
+  img: /static/assets/img/landing/DAELIM.png
+  desc: mLLDPE from South Korea
+
+- name: CYNPOL
+  i18n: cynpol
+  img: /static/assets/img/landing/cynpol.png
+  desc: HDPE, LDPE, LLDPE polymers from USA
