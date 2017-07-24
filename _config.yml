@@ -2,6 +2,9 @@
 
 # Website settings
 title: Selnord Consultants
+tittledesc: exclusive agent & distributor
+titlelink: Vinmar International
+titleurl: http://vinmar.com
 description: HDPE, LLDPE, LLDPE, PVC, PET, PS and other polymers distribution
 keywords: CYNPOL, HDPE, LLDPE, LLDPE, PVC, PET, PS, polymers, СИНПОЛ, ПВХ, ПВД, ПНД, линейный полиэтилен, полимеры из США
 baseurl:  #/Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -19,15 +22,15 @@ author:  # change following line to your infomation.
   linkedin_id:  # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
-  email: info@selnord.com  # Leave blank if you don't have now
+  email: team@selnord.com  # Leave blank if you don't have now
   cv:   # A online CV can be printed as PDF, leave blank if you don't have now
-  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  skill_icon1:
-    - name: fa-phone
-    - name: fa-comment
-  skill_icon2:
-    - name: fa-skype
-    - name: fa-whatsapp
+  # service icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  service_icon1:
+    - name:
+    - name:
+  service_icon2:
+    - name:
+    - name:
 
   desc: "Selnord Consultants is a  marketing, distribution and project development company that brings value to the producers and users of petrochemical products through tailored business solutions."  # Describe yourself.
 
@@ -38,7 +41,7 @@ disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your c
 
 # analytics
 ## google analytics
-ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+ga:  UA-9458297-1 # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
   # id:
 
 ## google optimize
@@ -50,7 +53,7 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 
 # Build settings
