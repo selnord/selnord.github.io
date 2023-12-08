@@ -6,7 +6,7 @@ tittledesc: exclusive agent & distributor
 titlelink: Vinmar International
 titleurl: http://vinmar.com
 description: HDPE, LLDPE, LLDPE, PVC, PET, PS and other polymers distribution
-keywords: CYNPOL, HDPE, LLDPE, LLDPE, PVC, PET, PS, polymers, СИНПОЛ, ПВХ, ПВД, ПНД, линейный полиэтилен, полимеры из США
+keywords: CYNPOL, HDPE, LLDPE, LLDPE, PVC, PET, PS, polymers
 baseurl:  #/Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://selnord.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 realurl: http://selnord.com

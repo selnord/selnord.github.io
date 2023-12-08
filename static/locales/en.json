@@ -1,65 +1,69 @@
 {
   "website":{
-    "title": "Selnord Consultants "
+    "title": "Selnord Consultants"
   },
   "nav":{
-    "home": "Главная",
-    "about_me": "О компании",
-    "services": "Услуги",
-    "producers": "Производители",
-    "product": "Продукты",
-    "blog": "Блог",
-    "link": "Контакты"
+    "home": "Home",
+    "about_me": "About",
+    "services": "Services",
+    "producers": "Producers",
+    "product": "Products",
+    "blog": "Blog",
+    "link": "Contacts"
   },
   "about_me":{
-    "about_me": "О компании",
-    "des": "Selnord Consultants - ведущая компания по маркетингу и дистрибуции полимеров с обширной продуктовой линейкой. Мы заслужили репутацию надежного делового партнера для тех, кто ожидает от своих поставщиков конкурентоспособные цены и исключительные услуги."
+    "about_me": "About Company",
+    "des": "Selnord Consultants is a leading plastics marketing and distribution company with an extensive product line. We’ve earned a reputation for being a trustworthy, responsive, and reliable business partner for those who expect competitively priced products and exceptional services from their supplier."
   },
   "services":{
-    "my_services": "Наши услуги",
-	"des":"Ищете конкретный продукт? Мы будем работать с вами, чтобы решить любые вопросы. В Selnord ваш бизнес на первом месте. Свяжитесь с нашей командой онлайн или позвоните по телефону +7 495 935 7622"
+    "my_services": "Our Services",
+	"des": "Looking for a specific product? Need it in a hurry? We’ll work with you to solve any challenges that you have. At Selnord, your business comes first. Contact our team online or call us at +7 495 935 7622"
   },
   "producers":{
-    "my_producers": "Наши производители",
-    "formosa": "Поливинилхлорид суспензионный (ПВХ) производства США",
-    "axiall": "Поливинилхлорид суспензионный (ПВХ) производства США",
-    "cynpol": "широкая линейка полимеров производства США",
-    "daelim": "Металлоценовый линейный полиэтилен (mLLDPE) производства Южная Корея",
-    "chevron": "полиэтилен и полипропилен MARLEX"
+    "my_producers": "Our Producers",
+    "formosa": "Supension polyvinyl chloride (PVC) from USA",
+    "axiall": "Supension polyvinyl chloride (PVC) from USA",
+    "cynpol": "wide range of polymers from USA",
+    "daelim": "metallocene linear low density polyethylene (mLLDPE) from South Korea",
+    "chevron": "MARLEX® polyethylene and polypropylene products"
+
   },
   "product":{
-    "my_product": "Наши продукты",
+    "my_product": "Our Products",
 
-    "pvc": "Поливинилхлорид",
-    "pvc_desc": "Мы предлагаем различные виды марок поливинилхлорид, такие как поливинилхлорид суспензионный(ПВХС),  поливинилхлорид эмульсионный (ПВХЭ), предназначенные для использования в широком спектре применений  в соотвествии  с вашими потребностям и требованями к производительности.",
+    "pvc": "Polyvinyl chloride",
+    "pvc_desc": "We offer various polyvinyl chloride products that include supension polyvinyl chloride (S-PVC), emulsion polyvinyl chloride (E-PVC) resins for use in a wide-range of applications that are designed to meet your needs and demanding performance requirements",
     "pvc_date": "PVC, SPVC, EPVC",
-    "pvc_job": "ПВХ, ПВХС, ПВХЭ",
+    "pvc_job": "",
 
-    "pet": "Полиэтилентерефталат",
-    "pet_desc": "Мы предлагаем различные виды марок полиэтилентерефталата, предназначенные для использования в широком спектре применений  в соотвествии  с вашими потребностям и требованями к производительности.",
+    "pet": "Polyethylene terephthalate",
+    "pet_desc": "We offer polyethylene terephthalate for use in a wide-range of applications that are designed to meet your needs and demanding performance requirements.",
     "pet_date": "PET",
-    "pet_job": "ПЭТ, ПЭТФ",
+    "pet_job": "",
 
-    "pe": "Полиэтилен ",
-    "pe_desc": "Мы предлагаем широкий выбор продуктов из полиэтилена, включая линейный полиэтилен(LLDPE), полиэтилен высокого давления (LDPE/ПВД), полиэтилен низкого давления (HDPE / ПНД), металлоцен (mLLDPE) и этиленвинилацетатные (EVA) марки полимеров, которые предназначены для удовлетворения ваших потребностей и требований к производительности. Независимо от того, ищете ли вы прочность, стойкость на разрыв или прокол, прозрачность или простоту обработки, у нас есть продукты, которые вам подойдут, и они помогут вам определить идеальную марку и лучшее решение для вашей продукции.",
-	"pe_date": "HDPE, LDPE, LLDPE, mLLDPE, EVA",
-	"pe_job": "ПНД, ПВД, ЛПНП, МЛПНП, ЭВА",
-    "pp": "Полипропилен",
-    "pp_desc": "Мы предлагаем широкий выбор продуктов полипропилена, которые включают гомополимер, ударопрочный сополимер (ICP)  и смолы со статистическим сополимером (RCP) для использования в широком спектре приложений, которые разработаны для удовлетворения ваших потребностей и требований к производительности.",
+
+    "pe": "Polyethylene ",
+    "pe_desc": "We offer an extensive selection of polyethylene products that include linear low density (LLDPE), low density (LDPE), high density (HDPE), metallocene (mLLDPE), and ethylene vinyl acetate (EVA) resins for use in a wide-range of applications that are designed to meet your needs and demanding performance requirements. Whether you’re looking for toughness, tear or puncture resistance, transparency, or processing ease, we have the products you need and can help you identify the perfect grade and the best solution for your application.",
+    "pe_date": "HDPE, LDPE, LLDPE, mLLDPE, EVA",
+    "pe_job": "",
+    "pp": "Polypropylene",
+    "pp_desc": "We offer an extensive selection of polypropylene products that include homopolymer (HPP), impact copolymer (ICP), and random copolymer (RCP) resins for use in a wide-range of applications that are designed to meet your needs and demanding performance requirements. ",
     "pp_date": "HPP, RCP, ICP",
-    "pp_job": "ПП, ССП, УПСП",
-	"ps": "Полистирол",
-    "ps_desc": "Мы предлагаем широкий выбор продуктов полистирола, которые включают универсальные (GPPS), устойчивые к воспламенению (IRPS) и ударопрочные (HIPS) смолы для использования в широком диапазоне применений, которые разработаны для удовлетворения ваших потребностей и требуют высокой производительности.",
-    "ps_date": "GPPS, EPS, IPS,  HIPS",
-    "ps_job": "ПС, ПСВ, УПС"
+    "pp_date_job": "",
+	"ps": "Polystyrene",
+    "ps_desc": "We offer an extensive selection of polystyrene products that include general purpose (GPPS), ignition-resistant (IRPS), and high-impact (HIPS) resins for use in a wide-range of applications that are designed to meet your needs and demanding performance requirements.",
+    "ps_date": "GPPS, EPS,, IPS,  HIPS",
+    "ps_job": ""
+
+
+
 
   },
   "blog":{
-    "my_blog": "Наш блог"
+    "my_blog": "Our Blog"
   },
   "link":{
-    "link": "Контакты",
+    "link": "Contacts",
     "view": "views"
   }
-
 }
